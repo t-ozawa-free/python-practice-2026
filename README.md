@@ -17,6 +17,6 @@ Pythonの学習記録とコード集
 ## 📝 進捗
 
 随時更新中...
-・problem01_timecard.md 完了 2026/1/8
-・problem02_money_book.md 完了 2026/1/9
-・problem03_inventory.md 完了 2026/1/10
+- problem01_timecard.md 完了 2026/1/8
+- problem02_money_book.md 完了 2026/1/9
+- problem03_inventory.md 完了 2026/1/10
