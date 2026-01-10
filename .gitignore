@@ -1,0 +1,19 @@
+`.gitignore` を作成:
+```
+# 仮想環境
+venv/
+
+# Pythonキャッシュ
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# 環境変数
+.env
+
+# その他
+.DS_Store
