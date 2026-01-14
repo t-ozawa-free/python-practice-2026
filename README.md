@@ -22,3 +22,4 @@ Pythonの学習記録とコード集
 - problem03_inventory.md 完了 2026/1/10
 - problem04_sales.md 完了 2026/1/12
 - problem05_attendance.md 完了 2026/1/14
+- problem06_timecard_advanced.md 完了 2026/1/14
